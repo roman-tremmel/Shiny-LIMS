@@ -1,7 +1,7 @@
 # PGxLIMS
-Hardcoded PGxLIMS for sample management including lab procedures (e.g. DNA isolation, genotyping) as well as result documentation.
+Hardcoded PGxLIMS for sample management including interface for serveral lab procedures and results (e.g. DNA isolation, genotyping) as well as result documentation. Data is stored in a base R list and hourly backuped through local server structure. 
 
-User log in:
+User login into test or live system:
 <img src="/logIN.PNG" />
 ###
 Dashboard with short information and visual analyses:
