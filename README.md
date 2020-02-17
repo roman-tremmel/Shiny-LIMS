@@ -1,5 +1,9 @@
 # PGxLIMS
-Hardcoded PGxLIMS for IKP Stuttgart for sample management including lab procedures (DNA, genotyping) as well as result documentation. 
+Hardcoded PGxLIMS for sample management including lab procedures (e.g. DNA isolation, genotyping) as well as result documentation.
+
+
+<img src="/app_overview.PNG" />
+
 
 
 
