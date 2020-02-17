@@ -4,7 +4,7 @@ Hardcoded PGxLIMS for sample management including lab procedures (e.g. DNA isola
 User log in:
 <img src="/logIN.PNG" />
 ###
-Dashboard with short informations:
+Dashboard with short information and visual analyses:
 <img src="/dashboard.PNG" />
 ###
 Sample management including storage: 
