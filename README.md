@@ -1,15 +1,13 @@
 # PGxLIMS
 Hardcoded PGxLIMS for sample management including lab procedures (e.g. DNA isolation, genotyping) as well as result documentation.
 
-
+User log in:
 <img src="/logIN.PNG" />
-User log in 
-
 ###
-
+Dashboard with short informations:
 <img src="/dashboard.PNG" />
-Dashboard
-
+###
+Sample management including storage: 
 <img src="/sample_managemant.PNG" />
 
 
